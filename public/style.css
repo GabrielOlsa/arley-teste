@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.somas {
+
+display: flex;
+align-items: center;
+align-content: center;
+flex-direction: column;
+row-gap: 10px;
+}
